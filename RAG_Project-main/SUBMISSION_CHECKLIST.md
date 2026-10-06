@@ -1,0 +1,25 @@
+# Submission Checklist
+
+- [ ] GitHub repository is Public.
+- [ ] README.md explains purpose.
+- [ ] README.md explains installation.
+- [ ] README.md explains how to run.
+- [ ] README.md contains example questions.
+- [ ] At least 2 real Agentic Coding tools are represented by source Markdown files.
+- [ ] Loading implemented with LlamaIndex.
+- [ ] Chunking implemented with LlamaIndex Node Parser.
+- [ ] Cohere embeddings configured.
+- [ ] Pinecone configured.
+- [ ] Metadata contains tool and source file.
+- [ ] Retriever implemented.
+- [ ] Postprocessing implemented.
+- [ ] Response synthesis implemented.
+- [ ] Gradio interface implemented.
+- [ ] Event-driven workflow implemented.
+- [ ] Validation implemented.
+- [ ] Structured extraction implemented.
+- [ ] JSON schema contains at least 3 information categories.
+- [ ] Router distinguishes semantic and structured questions.
+- [ ] Workflow diagram included.
+- [ ] Tests pass.
+- [ ] No API keys are committed.
